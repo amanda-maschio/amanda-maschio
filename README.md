@@ -40,5 +40,4 @@
 	<a href="https://github.com/amanda-maschio"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png" title="Github"/></a>
 	<a href="https://www.linkedin.com/in/amanda-maschio-272783186/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" title="LinkedIn"/></a>
 	<a href="https://www.facebook.com/maschio.amanda/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png" title="Facebook"/></a>
-	<a href="https://www.instagram.com/amanda_maschio/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png" title="Instagram"/></a>
 </p>
