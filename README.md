@@ -2,6 +2,12 @@
 
 <br>
 
+<p align="center">
+  <img width="50%" src="https://i.gifer.com/origin/6d/6d0b900e14d74a5caf3a1fc039d859ea.gif"/>
+</p>
+
+<br>
+
 - I'm a Backend & Frontend Developer, graduated in Analysis and Systems Development at **[UNIFTEC - Centro Universitário](https://www.ftec.com.br/)**.
 - Currently Working as a Developer at **[Skeel](https://skeel.com.br/)**.
 - My portfolio, most of the time, is related to academic works and to search for knowledge in new technologies.
