@@ -22,21 +22,17 @@
 ## KNOWLEDGE AND PROGRAMMING LANGUAGES
 <br>
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png" title="Javascript"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/typescript.png" title="Typescript"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/angularjs.png" title="Angular"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/20909/html-5.png" title="HTML5"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/21278/css3.png" title="CSS3"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/vEiU8UeAmv0x/sass-avatar.png" title="Sass"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png" title="Javascript"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/typescript.png" title="Typescript"/>
 </p>
 
 <p align="center">
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/angularjs.png" title="Angular"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" title="Java"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/55251/c-sharp-logo.png" title="C#"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/20906/git.png" title="Git"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/38561/postgresql.png" title="PostgreSQL"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/vR6XrZzQr1CN/my-sql.png" title="MySQL"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/laYYF3dV0Iew/microsoft-sql-server.png" title="SQL Server"/>  
 </p>
 <br>
 
