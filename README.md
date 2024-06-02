@@ -2,19 +2,12 @@
 
 <br>
 
-<p align="center">
-  <img width="50%" src="https://i.gifer.com/origin/6d/6d0b900e14d74a5caf3a1fc039d859ea.gif"/>
-</p>
-
-<br>
-
 - I'm a Backend & Frontend Developer, graduated in Analysis and Systems Development at **[UNIFTEC - Centro Universitário](https://www.ftec.com.br/)**.
 - Currently Working as a Developer at **[Metadados](https://www.metadados.com.br/)**.
 - My portfolio, most of the time, is related to academic works and to search for knowledge in new technologies.
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-maschio&show_icons=true&theme=yeblu)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-maschio&layout=compact&theme=yeblu)
 
 <br>
