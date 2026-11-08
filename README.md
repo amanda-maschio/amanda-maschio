@@ -35,46 +35,17 @@
 
 ## ⭐ Featured work
 
-### 🏭 Software Factory · Metadados
+**🏭 Software Factory · Metadados** <sub>(private)</sub><br>
+Reusable software factory on GitHub Spec Kit that turns Spec-Driven Development into a team process, with AI agents and human approval gates.
 
-> Private repository — not publicly accessible.
+**🩺 [Care Guide](https://github.com/care-guide)** — [API](https://github.com/care-guide/care-guide-api) · [App](https://github.com/care-guide/care-guide-app)<br>
+Centralizes everything about the treatment of oncology patients: doctors, medications, exams, surgeries and appointments.
 
-A reusable **software factory** built on top of GitHub Spec Kit, which I maintain. It turns Spec-Driven Development into an operable process for the whole team:
+**🍔 [FIAP Tech Challenge](https://github.com/8SOAT-G4-Tech-Challenge)** <sub>(postgraduate)</sub><br>
+Self-service ordering system that evolved from a hexagonal monolith into microservices on AWS, plus a video-processing platform.
 
-- guided intake so non-technical POs/PMs can describe features and bugs;
-- **adversarial critique by AI sub-agents** (engineering, business and UI/UX lenses) before anything is built;
-- **two human gates** — the plan and the merge — keeping people accountable for what ships;
-- versioned releases automatically synchronized to product repositories;
-- a deterministic test suite with **250+ tests** running on **Linux and Windows** in sharded CI.
-
-`Bash` · `Python` · `GitHub Spec Kit` · `GitHub Actions` · `AI agents`
-
-### 🩺 Care Guide — [github.com/care-guide](https://github.com/care-guide)
-
-Ecosystem that centralizes everything relevant to the treatment of **oncology patients** in a single place: doctors, medications, exams, surgeries, symptoms and appointments.
-
-| Repository | Highlights | Stack |
-|---|---|---|
-| [care-guide-api](https://github.com/care-guide/care-guide-api) | Layered REST API, issue-driven PRs, automated tests in CI, problem+json errors, rate limiting, private file storage, secret-scanning hooks and full docs (architecture, security, LGPD, runbooks) | .NET 10 · EF Core · PostgreSQL · Docker |
-| [care-guide-app](https://github.com/care-guide/care-guide-app) | Mobile app with auth gate, secure session storage, typed models via codegen and a tested, scalable structure | Flutter · Dart · Riverpod · Dio |
-
-### 🍔 FIAP Tech Challenge (8SOAT · Group 4) — [github.com/8SOAT-G4-Tech-Challenge](https://github.com/8SOAT-G4-Tech-Challenge)
-
-Postgraduate team project that evolved, phase by phase, from a **hexagonal monolith** into **microservices on AWS**: a self-service ordering system for a fast-food restaurant, followed by a video-processing platform for the final hackathon. Built with DDD and Event Storming, Clean Architecture, tests with Jest, SonarQube analysis and infrastructure as code.
-
-| Repository | Description |
-|---|---|
-| [order](https://github.com/8SOAT-G4-Tech-Challenge/tech-challenge-order) · [user](https://github.com/8SOAT-G4-Tech-Challenge/tech-challenge-user) · [payment](https://github.com/8SOAT-G4-Tech-Challenge/tech-challenge-payment) | Order, user and payment microservices |
-| [hackaton-api](https://github.com/8SOAT-G4-Tech-Challenge/hackaton-api) · [hackaton-converter](https://github.com/8SOAT-G4-Tech-Challenge/hackaton-converter) | Video upload, processing queues, frame extraction and notifications |
-| [documentation](https://github.com/8SOAT-G4-Tech-Challenge/tech-challenge-fiap-documentation) | Architecture docs for every phase |
-
-`Node.js` · `TypeScript` · `Fastify` · `Prisma` · `Jest` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Kubernetes (EKS)` · `Terraform` · `AWS`
-
-### 💉 VaccineC — final undergraduate project (TCC)
-
-A **complete management system for private vaccination clinics**, developed as my final project at UNIFTEC: registrations, quotes, scheduling with next-dose suggestions and SMS reminders, vaccine application with integration to a mock of the national immunization system (SI-PNI), and stock control by batch with automatic write-off.
-
-[VaccineC.BackEnd](https://github.com/VarRgas/VaccineC.BackEnd) · [VaccineC.Web](https://github.com/VarRgas/VaccineC.Web) — `C#` · `.NET` · `Angular` · `TypeScript`
+**💉 VaccineC** <sub>(TCC)</sub> — [Back-end](https://github.com/VarRgas/VaccineC.BackEnd) · [Web](https://github.com/VarRgas/VaccineC.Web)<br>
+Complete management system for vaccination clinics: scheduling, vaccine application, stock and integration with the national immunization system.
 
 ---
 
